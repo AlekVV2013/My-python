@@ -1,3 +1,1 @@
-from idlelib.multicall import r
-
-open('Preview.txt', r )
+open('Preview', mode="r")
